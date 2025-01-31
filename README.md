@@ -22,7 +22,7 @@ An interactive web-based quiz application focused on Genetics and Molecular Inhe
 ![Result Screen](screenshots/result-screen.png)
 
 ## 🎥 Video Walkthrough
-[Watch the Full App Walkthrough](video-link-here)
+[Watch the Full App Walkthrough](https://www.youtube.com/watch?v=J8ksiGReJ2w)
 
 ## 🔧 Setup Instructions
 
@@ -33,8 +33,8 @@ An interactive web-based quiz application focused on Genetics and Molecular Inhe
 ### Installation Steps
 1. Clone the repository
 ```bash
-git clone https://your-repo-url.git
-cd quiz-app
+git clone https://github.com/HarshadSanjayKarale/Testline.git
+cd Testline
 ```
 
 2. Install dependencies
